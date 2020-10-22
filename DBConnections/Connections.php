@@ -2,9 +2,9 @@
 	date_default_timezone_set('Asia/Calcutta');
 		
 	$host ="localhost";
-	$db_name = "smatbot_task";
-	$db_username = "root";
-	$db_password = "";
+	$db_name = "eek3km8wxb";
+	$db_username = "eek3km8wxb";
+	$db_password = "iO2fLzUyo7";
 
 	
 	$dbConnection = new PDO("mysql:dbname=$db_name;host=$host;charset=utf8", "$db_username", "$db_password");	
