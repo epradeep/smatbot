@@ -1,7 +1,7 @@
 <?php
 	date_default_timezone_set('Asia/Calcutta');
 		
-	$host ="localhost";
+	$host ="remotemysql.com";
 	$db_name = "eek3km8wxb";
 	$db_username = "eek3km8wxb";
 	$db_password = "iO2fLzUyo7";
